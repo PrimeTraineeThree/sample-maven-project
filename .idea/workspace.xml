@@ -2,153 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c23dd46a-a390-49e0-b8a3-597a4e60568b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drivers/IEDriverServer.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drivers/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drivers/geckodriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample-maven-project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/basepage/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/browserselector/BrowserSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/loadproperty/LoadProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/screenshots/UUpaIUiNET.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/utility/Utility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/TesstNG/TestNGDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/TesstNG/TestNGListeners.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/TesstNG/TestNGListenersDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/TesstNG/TestNG_Grouping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/TesstNG/TestNG_Priority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/TesstNG/TestNg_SoftAsserts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/listeners/Listeners.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/propertiesfile/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/runners/regression.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/runners/sanity.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/runners/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/runners/testnglistener.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/testbase/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/testsuite/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/testsuite/LoginTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/sample-maven-project.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/nopcommerce/basepage/BasePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/nopcommerce/browserselector/BrowserSelector.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/nopcommerce/loadproperty/LoadProperty.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/nopcommerce/pages/HomePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/nopcommerce/pages/LoginPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/demo/nopcommerce/utility/Utility.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/failed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.demo.nopcommerce.TesstNG.TestNGDemo.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.demo.nopcommerce.testsuite.LoginTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/Surefire test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/passed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/skipped.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/sample-maven-project.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/demo/nopcommerce/TesstNG/TestNGDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/demo/nopcommerce/TesstNG/TestNGListeners.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/demo/nopcommerce/TesstNG/TestNGListenersDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/demo/nopcommerce/TesstNG/TestNG_Grouping.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/demo/nopcommerce/TesstNG/TestNG_Priority.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/demo/nopcommerce/TesstNG/TestNg_SoftAsserts.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/demo/nopcommerce/listeners/Listeners.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/demo/nopcommerce/testbase/TestBase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/demo/nopcommerce/testsuite/LoginTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/demo/nopcommerce/testsuite/LoginTest1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/sample-maven-project.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/sample-maven-project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/bullet_point.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/collapseall.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/failed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/html/output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/html/overview.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/html/reportng.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/html/reportng.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/html/sorttable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/html/suite1_test2_results.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/html/suite1_test3_results.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/html/suites.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/html/verifyUserShouldNavigateToLoginPage1Sat_Apr_11_17_15_22_BST_2020.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/html/verifyUserShouldNavigateToLoginPage1Sat_Apr_11_17_30_38_BST_2020.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/html/verifyUserShouldNavigateToLoginPage1Sat_Apr_11_17_30_58_BST_2020.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/jquery-1.7.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.demo.nopcommerce.TesstNG.TestNGListenersDemo.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.demo.nopcommerce.testsuite.LoginTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.demo.nopcommerce.testsuite.LoginTest1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/navigator-bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/sample-maven-project.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/testsuite/Login Test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/testsuite/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/testsuite/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/testsuite/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/testsuite/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/testsuite/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/testsuite/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/testsuite/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/testsuite/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/testsuite/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/testsuite/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/passed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/skipped.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testsuite/Login Test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testsuite/Login Test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testsuite/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/xml/com.demo.nopcommerce.testsuite.LoginTest1_results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/xml/com.demo.nopcommerce.testsuite.LoginTest_results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/excelutility/ExcelRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/excelutility/ExcelUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/propertiesfile/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/testdata/ExcelData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/testdata/ExcelRead.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/runners/sanity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/runners/sanity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/testbase/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/testbase/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/testsuite/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/testsuite/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/testsuite/LoginTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/testsuite/LoginTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/sample-maven-project.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/nopcommerce/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/demo/nopcommerce/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/nopcommerce/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/demo/nopcommerce/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/nopcommerce/utility/Utility.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/demo/nopcommerce/utility/Utility.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.demo.nopcommerce.TesstNG.TestNGDemo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.demo.nopcommerce.testsuite.LoginTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.demo.nopcommerce.testsuite.LoginTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/Surefire test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/sample-maven-project.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/demo/nopcommerce/listeners/Listeners.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/demo/nopcommerce/listeners/Listeners.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/demo/nopcommerce/testbase/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/demo/nopcommerce/testbase/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/demo/nopcommerce/testsuite/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/demo/nopcommerce/testsuite/LoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/demo/nopcommerce/testsuite/LoginTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/demo/nopcommerce/testsuite/LoginTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/output.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/output.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/overview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suite1_test2_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite1_test2_results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suites.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suites.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.demo.nopcommerce.testsuite.LoginTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.demo.nopcommerce.testsuite.LoginTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/com.demo.nopcommerce.testsuite.LoginTest1_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.demo.nopcommerce.testsuite.LoginTest1_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/com.demo.nopcommerce.testsuite.LoginTest_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.demo.nopcommerce.testsuite.LoginTest_results.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,6 +69,9 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="203" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -168,23 +83,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectId" id="1ZlMvVFo4fdeRRpe9zD6AXSIZzO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/runners" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -201,11 +110,14 @@
       <recent name="com.demo.nopcommerce" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PrimeBatch_3\sample-maven-project\src\main\java\com\demo\nopcommerce" />
+      <recent name="C:\PrimeBatch_3\sample-maven-project\src\test\java\com\demo\nopcommerce\resources\testdata" />
+      <recent name="C:\PrimeBatch_3\sample-maven-project\src\test\java\com\demo\nopcommerce\resources\propertiesfile" />
       <recent name="C:\PrimeBatch_3\sample-maven-project\src\test\java\com\demo\nopcommerce\resources\runners" />
       <recent name="C:\PrimeBatch_3\sample-maven-project" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/PrimeBatch_3/sample-maven-project/src/test/java/com/demo/nopcommerce/resources/runners/testng.xml">
+  <component name="RunManager" selected="TestNG.C:/PrimeBatch_3/sample-maven-project/src/test/java/com/demo/nopcommerce/resources/runners/sanity.xml">
     <configuration name="C:/PrimeBatch_3/sample-maven-project/src/test/java/com/demo/nopcommerce/resources/runners/regression.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="sample-maven-project" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/runners/regression.xml" />
@@ -218,8 +130,17 @@
     </configuration>
     <configuration name="C:/PrimeBatch_3/sample-maven-project/src/test/java/com/demo/nopcommerce/resources/runners/sanity.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="sample-maven-project" />
+      <useClassPathOnly />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/runners/sanity.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
@@ -273,9 +194,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/PrimeBatch_3/sample-maven-project/src/test/java/com/demo/nopcommerce/resources/runners/sanity.xml" />
         <item itemvalue="TestNG.C:/PrimeBatch_3/sample-maven-project/src/test/java/com/demo/nopcommerce/resources/runners/testng.xml" />
         <item itemvalue="TestNG.C:/PrimeBatch_3/sample-maven-project/src/test/java/com/demo/nopcommerce/resources/runners/regression.xml" />
-        <item itemvalue="TestNG.C:/PrimeBatch_3/sample-maven-project/src/test/java/com/demo/nopcommerce/resources/runners/sanity.xml" />
         <item itemvalue="TestNG.C:/PrimeBatch_3/sample-maven-project/src/test/java/com/demo/nopcommerce/resources/runners/testnggrouping.xml" />
         <item itemvalue="TestNG.TestNg_SoftAsserts.testSum" />
       </list>
@@ -292,14 +213,30 @@
       <option name="presentableId" value="Default" />
       <updated>1585409457583</updated>
     </task>
+    <task id="LOCAL-00001" summary="Today's class update">
+      <created>1586631933036</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586631933036</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Today's class update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Today's class update" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="-1506" y="-35" width="1124" height="781" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586611354707">
+    <state x="-1568" y="-187" key="#Plugins" timestamp="1586984610490">
+      <screen x="-1920" y="-187" width="1920" height="1040" />
+    </state>
+    <state x="-1568" y="-187" key="#Plugins/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586984610490" />
+    <state x="-1506" y="-35" width="1124" height="781" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586713647628">
       <screen x="-1920" y="-187" width="1920" height="1040" />
     </state>
     <state x="-1506" y="20" width="1116" height="764" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1585865312413" />
-    <state x="-1506" y="-35" width="1124" height="781" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586611354707" />
+    <state x="-1506" y="-35" width="1124" height="781" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586713647628" />
     <state x="-1828" y="-40" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585860392855">
       <screen x="-1920" y="-132" width="1920" height="1040" />
     </state>
@@ -308,6 +245,10 @@
       <screen x="-1920" y="-187" width="1920" height="1040" />
     </state>
     <state x="-1243" y="-93" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586615858918" />
+    <state x="-1280" y="45" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586982487679">
+      <screen x="-1920" y="-187" width="1920" height="1040" />
+    </state>
+    <state x="-1280" y="45" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586982487679" />
     <state x="-1504" y="228" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586615627593">
       <screen x="-1920" y="-187" width="1920" height="1040" />
     </state>
@@ -316,47 +257,55 @@
       <screen x="-1920" y="-187" width="1920" height="1040" />
     </state>
     <state x="-1246" y="169" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586615631601" />
+    <state x="-1532" y="-187" key="CommitChangelistDialog2" timestamp="1586631923522">
+      <screen x="-1920" y="-187" width="1920" height="1040" />
+    </state>
+    <state x="-1532" y="-187" key="CommitChangelistDialog2/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586631923522" />
     <state width="560" height="696" key="DebuggerActiveHint" timestamp="1586010911885">
       <screen x="-1920" y="-132" width="1920" height="1040" />
     </state>
     <state width="560" height="696" key="DebuggerActiveHint/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1586010911885" />
-    <state x="-1280" y="-24" key="FileChooserDialogImpl" timestamp="1586611973152">
+    <state x="-1280" y="-24" key="FileChooserDialogImpl" timestamp="1586982073124">
       <screen x="-1920" y="-187" width="1920" height="1040" />
     </state>
     <state x="-1280" y="31" key="FileChooserDialogImpl/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1586102062195" />
-    <state x="-1280" y="-24" key="FileChooserDialogImpl/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586611973152" />
+    <state x="-1280" y="-24" key="FileChooserDialogImpl/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586982073124" />
     <state x="-1219" y="211" key="Github.CreateGistDialog" timestamp="1586631841027">
       <screen x="-1920" y="-187" width="1920" height="1040" />
     </state>
     <state x="-1219" y="211" key="Github.CreateGistDialog/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586631841027" />
-    <state width="1853" height="420" key="GridCell.Tab.0.bottom" timestamp="1586630230723">
-      <screen x="-1920" y="-187" width="1920" height="1040" />
+    <state width="1853" height="317" key="GridCell.Tab.0.bottom" timestamp="1586814292980">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1853" height="299" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1586019783590" />
     <state width="1293" height="275" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-3280.0.1360.728" timestamp="1586096433981" />
     <state width="1299" height="455" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@0.0.1366.728" timestamp="1585864176544" />
-    <state width="1853" height="420" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586630230723" />
-    <state width="1853" height="420" key="GridCell.Tab.0.center" timestamp="1586630230723">
-      <screen x="-1920" y="-187" width="1920" height="1040" />
+    <state width="1853" height="317" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586717854314" />
+    <state width="1853" height="317" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@0.0.1366.728" timestamp="1586814292980" />
+    <state width="1853" height="317" key="GridCell.Tab.0.center" timestamp="1586814292965">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1853" height="299" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1586019783590" />
     <state width="1293" height="275" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-3280.0.1360.728" timestamp="1586096433981" />
     <state width="1299" height="455" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@0.0.1366.728" timestamp="1585864176543" />
-    <state width="1853" height="420" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586630230723" />
-    <state width="1853" height="420" key="GridCell.Tab.0.left" timestamp="1586630230722">
-      <screen x="-1920" y="-187" width="1920" height="1040" />
+    <state width="1853" height="317" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586717854314" />
+    <state width="1853" height="317" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@0.0.1366.728" timestamp="1586814292965" />
+    <state width="1853" height="317" key="GridCell.Tab.0.left" timestamp="1586814292957">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1853" height="299" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1586019783590" />
     <state width="1293" height="275" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-3280.0.1360.728" timestamp="1586096433980" />
     <state width="1299" height="455" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@0.0.1366.728" timestamp="1585864176543" />
-    <state width="1853" height="420" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586630230722" />
-    <state width="1853" height="420" key="GridCell.Tab.0.right" timestamp="1586630230723">
-      <screen x="-1920" y="-187" width="1920" height="1040" />
+    <state width="1853" height="317" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586717854314" />
+    <state width="1853" height="317" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@0.0.1366.728" timestamp="1586814292957" />
+    <state width="1853" height="317" key="GridCell.Tab.0.right" timestamp="1586814292965">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1853" height="299" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1586019783590" />
     <state width="1293" height="275" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-3280.0.1360.728" timestamp="1586096433981" />
     <state width="1299" height="455" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@0.0.1366.728" timestamp="1585864176543" />
-    <state width="1853" height="420" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586630230723" />
+    <state width="1853" height="317" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586717854314" />
+    <state width="1853" height="317" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@0.0.1366.728" timestamp="1586814292965" />
     <state width="1853" height="299" key="GridCell.Tab.1.bottom" timestamp="1586019783590">
       <screen x="-1920" y="-132" width="1920" height="1040" />
     </state>
@@ -378,14 +327,19 @@
     </state>
     <state x="-1580" y="-59" key="IDE.errors.dialog/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586591168933" />
     <state x="-3798" y="-187" key="IDE.errors.dialog/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-3840.-187.1280.680" timestamp="1586600160097" />
+    <state x="-1661" y="-182" key="Maven.ArtifactSearchDialog" timestamp="1586985626224">
+      <screen x="-1920" y="-187" width="1920" height="1040" />
+    </state>
+    <state x="-1661" y="-182" key="Maven.ArtifactSearchDialog/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1920.1040@-1920.-187.1920.1040" timestamp="1586985626224" />
     <state x="-1696" y="-187" key="SettingsEditor" timestamp="1586604006549">
       <screen x="-1920" y="-187" width="1920" height="1040" />
     </state>
     <state x="-1696" y="-132" key="SettingsEditor/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1586104169446" />
     <state x="-1696" y="-187" key="SettingsEditor/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586604006549" />
-    <state x="247" y="108" key="com.intellij.ide.util.TipDialog" timestamp="1585478718579">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="-1573" y="-33" key="com.intellij.ide.util.TipDialog" timestamp="1586982005099">
+      <screen x="-1920" y="-187" width="1920" height="1040" />
     </state>
+    <state x="-1573" y="-33" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586982005099" />
     <state x="247" y="108" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585478718579" />
     <state x="-1867" y="-132" key="new project wizard" timestamp="1585999613621">
       <screen x="-1920" y="-132" width="1920" height="1040" />
@@ -402,5 +356,8 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sample_maven_project$C__PrimeBatch_3_sample_maven_project_src_test_java_com_demo_nopcommerce_resources_runners_sanity_xml.ic" NAME="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/runners/sanity.xml Coverage Results" MODIFIED="1586704277091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

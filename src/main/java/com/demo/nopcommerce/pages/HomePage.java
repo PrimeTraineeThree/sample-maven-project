@@ -2,6 +2,7 @@ package com.demo.nopcommerce.pages;
 
 import com.demo.nopcommerce.utility.Utility;
 import org.openqa.selenium.By;
+import org.testng.Reporter;
 
 /**
  * Created by Jay
@@ -13,10 +14,12 @@ public class HomePage extends Utility {
 
 
     public void clickOnLoginLink(){
+        Reporter.log("Clicking on login link " +loginLink.toString());
         clickOnElement(loginLink);
     }
 
     public void clickOnRegisterLink(){
+        Reporter.log("Clicking on login link " +registerLink.toString());
         clickOnElement(registerLink);
     }
 

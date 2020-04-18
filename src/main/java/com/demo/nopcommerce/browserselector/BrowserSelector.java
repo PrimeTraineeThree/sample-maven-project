@@ -4,6 +4,7 @@ import com.demo.nopcommerce.basepage.BasePage;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.testng.Reporter;
 
 /**
  * Created by Jay
@@ -14,6 +15,7 @@ public class BrowserSelector extends BasePage {
 
     public void selectBrowser(String browser) {
         if (browser.equalsIgnoreCase("chrome")) {
+            Reporter.log("Launching Chrome browser");
             System.setProperty("webdriver.chrome.driver", projectPath + "/drivers/chromedriver.exe");
             driver = new ChromeDriver();
         } else if (browser.equalsIgnoreCase("firefox")) {

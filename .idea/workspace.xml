@@ -2,21 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c23dd46a-a390-49e0-b8a3-597a4e60568b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/excelutility/ExcelRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/excelutility/ExcelUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/propertiesfile/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/testdata/ExcelData.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/testdata/ExcelRead.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/TesstNG/RetryAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/TesstNG/TestNGParametersDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/TesstNG/TestNGRetryFailedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/runners/parallel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/runners/paremeter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/testdata/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/testsuite/LoginTestWithDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/testsuite/LoginTestWithExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/testsuite/LoginTestWithParameterAndParallel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/basepage/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/basepage/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/browserselector/BrowserSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/browserselector/BrowserSelector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/excelutility/ExcelRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/excelutility/ExcelRead.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/pages/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/runners/sanity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/runners/sanity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/utility/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/utility/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/propertiesfile/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/propertiesfile/log4j.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/testbase/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/testbase/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/testsuite/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/testsuite/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/testsuite/LoginTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/testsuite/LoginTest1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/META-INF/sample-maven-project.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/nopcommerce/browserselector/BrowserSelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/demo/nopcommerce/browserselector/BrowserSelector.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/demo/nopcommerce/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/demo/nopcommerce/pages/HomePage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/demo/nopcommerce/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/demo/nopcommerce/pages/LoginPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/demo/nopcommerce/utility/Utility.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/demo/nopcommerce/utility/Utility.class" afterDir="false" />
@@ -48,19 +53,67 @@
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/demo/nopcommerce/testbase/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/demo/nopcommerce/testbase/TestBase.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/demo/nopcommerce/testsuite/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/demo/nopcommerce/testsuite/LoginTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/demo/nopcommerce/testsuite/LoginTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/demo/nopcommerce/testsuite/LoginTest1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/html/output.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/output.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/html/overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/overview.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/html/suite1_test2_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite1_test2_results.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/html/suites.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suites.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.demo.nopcommerce.testsuite.LoginTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.demo.nopcommerce.testsuite.LoginTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/xml/com.demo.nopcommerce.testsuite.LoginTest1_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.demo.nopcommerce.testsuite.LoginTest1_results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/xml/com.demo.nopcommerce.testsuite.LoginTest_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.demo.nopcommerce.testsuite.LoginTest_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/sample-maven-project.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/sample-maven-project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/overview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/reportng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/reportng.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/sorttable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suite1_test2_results.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suite1_test3_results.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suites.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/verifyUserShouldNavigateToLoginPage1Sat_Apr_11_17_15_22_BST_2020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/verifyUserShouldNavigateToLoginPage1Sat_Apr_11_17_30_38_BST_2020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/verifyUserShouldNavigateToLoginPage1Sat_Apr_11_17_30_58_BST_2020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.demo.nopcommerce.TesstNG.TestNGListenersDemo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.demo.nopcommerce.testsuite.LoginTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.demo.nopcommerce.testsuite.LoginTest1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/sample-maven-project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/testsuite/Login Test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/testsuite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/testsuite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/testsuite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/testsuite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/testsuite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/testsuite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/testsuite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/testsuite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/testsuite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/testsuite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testsuite/Login Test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testsuite/Login Test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testsuite/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/com.demo.nopcommerce.testsuite.LoginTest1_results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/com.demo.nopcommerce.testsuite.LoginTest_results.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,34 +146,47 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/runners" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.demo.nopcommerce" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.demo.nopcommerce.TesstNG" />
       <recent name="com.demo.nopcommerce.testsuite" />
+      <recent name="com.demo.nopcommerce.TesstNG" />
       <recent name="com.demo.nopcommerce.utility" />
       <recent name="com.demo.nopcommerce" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PrimeBatch_3\sample-maven-project\src\test\java\com\demo\nopcommerce\resources\runners" />
       <recent name="C:\PrimeBatch_3\sample-maven-project\src\main\java\com\demo\nopcommerce" />
       <recent name="C:\PrimeBatch_3\sample-maven-project\src\test\java\com\demo\nopcommerce\resources\testdata" />
       <recent name="C:\PrimeBatch_3\sample-maven-project\src\test\java\com\demo\nopcommerce\resources\propertiesfile" />
-      <recent name="C:\PrimeBatch_3\sample-maven-project\src\test\java\com\demo\nopcommerce\resources\runners" />
       <recent name="C:\PrimeBatch_3\sample-maven-project" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/PrimeBatch_3/sample-maven-project/src/test/java/com/demo/nopcommerce/resources/runners/sanity.xml">
-    <configuration name="C:/PrimeBatch_3/sample-maven-project/src/test/java/com/demo/nopcommerce/resources/runners/regression.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.LoginTest">
+    <configuration name="ExcelRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.nopcommerce.excelutility.ExcelRead" />
       <module name="sample-maven-project" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/runners/regression.xml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.nopcommerce.excelutility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/PrimeBatch_3/sample-maven-project/test-output/testng-failed.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sample-maven-project" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/test-output/testng-failed.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -128,17 +194,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/PrimeBatch_3/sample-maven-project/src/test/java/com/demo/nopcommerce/resources/runners/sanity.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sample-maven-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.nopcommerce.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.nopcommerce.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.nopcommerce.testsuite.LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTestWithExcel.doLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sample-maven-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.nopcommerce.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.nopcommerce.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.nopcommerce.testsuite.LoginTestWithExcel" />
+      <option name="METHOD_NAME" value="doLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNGRetryFailedDemo" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="sample-maven-project" />
       <useClassPathOnly />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/runners/sanity.xml" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.nopcommerce.TesstNG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.demo.nopcommerce.TesstNG" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.nopcommerce.TesstNG.TestNGRetryFailedDemo" />
       <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="PARAMETERS" value="" />
       <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
       <option name="USE_DEFAULT_REPORTERS" value="true" />
       <option name="PROPERTIES_FILE" value="" />
       <properties />
@@ -147,58 +256,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/PrimeBatch_3/sample-maven-project/src/test/java/com/demo/nopcommerce/resources/runners/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="sample-maven-project" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/runners/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/PrimeBatch_3/sample-maven-project/src/test/java/com/demo/nopcommerce/resources/runners/testnggrouping.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="sample-maven-project" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/runners/testnggrouping.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestNg_SoftAsserts.testSum" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="sample-maven-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.demo.nopcommerce.TesstNG.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.demo.nopcommerce.TesstNG" />
-      <option name="MAIN_CLASS_NAME" value="com.demo.nopcommerce.TesstNG.TestNg_SoftAsserts" />
-      <option name="METHOD_NAME" value="testSum" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="TestNG.TestNg_SoftAsserts.testSum" />
-      <item itemvalue="TestNG.C:/PrimeBatch_3/sample-maven-project/src/test/java/com/demo/nopcommerce/resources/runners/testnggrouping.xml" />
-      <item itemvalue="TestNG.C:/PrimeBatch_3/sample-maven-project/src/test/java/com/demo/nopcommerce/resources/runners/sanity.xml" />
-      <item itemvalue="TestNG.C:/PrimeBatch_3/sample-maven-project/src/test/java/com/demo/nopcommerce/resources/runners/regression.xml" />
-      <item itemvalue="TestNG.C:/PrimeBatch_3/sample-maven-project/src/test/java/com/demo/nopcommerce/resources/runners/testng.xml" />
+      <item itemvalue="Application.ExcelRead" />
+      <item itemvalue="TestNG.LoginTestWithExcel.doLogin" />
+      <item itemvalue="TestNG.TestNGRetryFailedDemo" />
+      <item itemvalue="TestNG.C:/PrimeBatch_3/sample-maven-project/test-output/testng-failed.xml" />
+      <item itemvalue="TestNG.LoginTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/PrimeBatch_3/sample-maven-project/src/test/java/com/demo/nopcommerce/resources/runners/sanity.xml" />
-        <item itemvalue="TestNG.C:/PrimeBatch_3/sample-maven-project/src/test/java/com/demo/nopcommerce/resources/runners/testng.xml" />
-        <item itemvalue="TestNG.C:/PrimeBatch_3/sample-maven-project/src/test/java/com/demo/nopcommerce/resources/runners/regression.xml" />
-        <item itemvalue="TestNG.C:/PrimeBatch_3/sample-maven-project/src/test/java/com/demo/nopcommerce/resources/runners/testnggrouping.xml" />
-        <item itemvalue="TestNG.TestNg_SoftAsserts.testSum" />
+        <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="TestNG.TestNGRetryFailedDemo" />
+        <item itemvalue="TestNG.C:/PrimeBatch_3/sample-maven-project/test-output/testng-failed.xml" />
+        <item itemvalue="TestNG.LoginTestWithExcel.doLogin" />
+        <item itemvalue="Application.ExcelRead" />
       </list>
     </recent_temporary>
   </component>
@@ -220,31 +291,42 @@
       <option name="project" value="LOCAL" />
       <updated>1586631933036</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="This week pre added topics">
+      <created>1586988010158</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586988010158</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Today's class update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Today's class update" />
+    <MESSAGE value="This week pre added topics" />
+    <option name="LAST_COMMIT_MESSAGE" value="This week pre added topics" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1568" y="-187" key="#Plugins" timestamp="1586984610490">
       <screen x="-1920" y="-187" width="1920" height="1040" />
     </state>
     <state x="-1568" y="-187" key="#Plugins/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586984610490" />
-    <state x="-1506" y="-35" width="1124" height="781" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586713647628">
-      <screen x="-1920" y="-187" width="1920" height="1040" />
+    <state x="414" y="152" width="1193" height="784" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587217289170">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1506" y="20" width="1116" height="764" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1585865312413" />
     <state x="-1506" y="-35" width="1124" height="781" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586713647628" />
-    <state x="-1828" y="-40" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585860392855">
-      <screen x="-1920" y="-132" width="1920" height="1040" />
+    <state x="414" y="152" width="1193" height="784" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.187.1366.728/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587217289170" />
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1587217165972">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1828" y="-40" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1585860392855" />
-    <state x="-1243" y="-93" key="#com.intellij.ide.util.MemberChooser" timestamp="1586615858918">
-      <screen x="-1920" y="-187" width="1920" height="1040" />
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1920.187.1366.728/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587217165972" />
+    <state x="677" y="94" key="#com.intellij.ide.util.MemberChooser" timestamp="1587216544520">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1243" y="-93" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586615858918" />
+    <state x="677" y="94" key="#com.intellij.ide.util.MemberChooser/1920.187.1366.728/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587216544520" />
     <state x="-1280" y="45" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586982487679">
       <screen x="-1920" y="-187" width="1920" height="1040" />
     </state>
@@ -257,55 +339,61 @@
       <screen x="-1920" y="-187" width="1920" height="1040" />
     </state>
     <state x="-1246" y="169" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586615631601" />
-    <state x="-1532" y="-187" key="CommitChangelistDialog2" timestamp="1586631923522">
+    <state x="-1532" y="-187" key="CommitChangelistDialog2" timestamp="1586988006241">
       <screen x="-1920" y="-187" width="1920" height="1040" />
     </state>
     <state x="-1532" y="-187" key="CommitChangelistDialog2/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586631923522" />
+    <state x="-1532" y="-187" key="CommitChangelistDialog2/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1920.1040@-1920.-187.1920.1040" timestamp="1586988006241" />
     <state width="560" height="696" key="DebuggerActiveHint" timestamp="1586010911885">
       <screen x="-1920" y="-132" width="1920" height="1040" />
     </state>
     <state width="560" height="696" key="DebuggerActiveHint/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1586010911885" />
-    <state x="-1280" y="-24" key="FileChooserDialogImpl" timestamp="1586982073124">
-      <screen x="-1920" y="-187" width="1920" height="1040" />
+    <state x="640" y="163" key="FileChooserDialogImpl" timestamp="1587198705057">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1280" y="31" key="FileChooserDialogImpl/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1586102062195" />
     <state x="-1280" y="-24" key="FileChooserDialogImpl/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586982073124" />
+    <state x="640" y="163" key="FileChooserDialogImpl/1920.187.1366.728/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587198705057" />
     <state x="-1219" y="211" key="Github.CreateGistDialog" timestamp="1586631841027">
       <screen x="-1920" y="-187" width="1920" height="1040" />
     </state>
     <state x="-1219" y="211" key="Github.CreateGistDialog/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586631841027" />
-    <state width="1853" height="317" key="GridCell.Tab.0.bottom" timestamp="1586814292980">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1853" height="449" key="GridCell.Tab.0.bottom" timestamp="1587232008844">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1853" height="299" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1586019783590" />
     <state width="1293" height="275" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-3280.0.1360.728" timestamp="1586096433981" />
     <state width="1299" height="455" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@0.0.1366.728" timestamp="1585864176544" />
     <state width="1853" height="317" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586717854314" />
     <state width="1853" height="317" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@0.0.1366.728" timestamp="1586814292980" />
-    <state width="1853" height="317" key="GridCell.Tab.0.center" timestamp="1586814292965">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1853" height="449" key="GridCell.Tab.0.bottom/1920.187.1366.728/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587232008844" />
+    <state width="1853" height="449" key="GridCell.Tab.0.center" timestamp="1587232008843">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1853" height="299" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1586019783590" />
     <state width="1293" height="275" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-3280.0.1360.728" timestamp="1586096433981" />
     <state width="1299" height="455" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@0.0.1366.728" timestamp="1585864176543" />
     <state width="1853" height="317" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586717854314" />
     <state width="1853" height="317" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@0.0.1366.728" timestamp="1586814292965" />
-    <state width="1853" height="317" key="GridCell.Tab.0.left" timestamp="1586814292957">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1853" height="449" key="GridCell.Tab.0.center/1920.187.1366.728/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587232008843" />
+    <state width="1853" height="449" key="GridCell.Tab.0.left" timestamp="1587232008842">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1853" height="299" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1586019783590" />
     <state width="1293" height="275" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-3280.0.1360.728" timestamp="1586096433980" />
     <state width="1299" height="455" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@0.0.1366.728" timestamp="1585864176543" />
     <state width="1853" height="317" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586717854314" />
     <state width="1853" height="317" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@0.0.1366.728" timestamp="1586814292957" />
-    <state width="1853" height="317" key="GridCell.Tab.0.right" timestamp="1586814292965">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1853" height="449" key="GridCell.Tab.0.left/1920.187.1366.728/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587232008842" />
+    <state width="1853" height="449" key="GridCell.Tab.0.right" timestamp="1587232008843">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1853" height="299" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1586019783590" />
     <state width="1293" height="275" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-3280.0.1360.728" timestamp="1586096433981" />
     <state width="1299" height="455" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@0.0.1366.728" timestamp="1585864176543" />
     <state width="1853" height="317" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586717854314" />
     <state width="1853" height="317" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@0.0.1366.728" timestamp="1586814292965" />
+    <state width="1853" height="449" key="GridCell.Tab.0.right/1920.187.1366.728/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587232008843" />
     <state width="1853" height="299" key="GridCell.Tab.1.bottom" timestamp="1586019783590">
       <screen x="-1920" y="-132" width="1920" height="1040" />
     </state>
@@ -331,11 +419,16 @@
       <screen x="-1920" y="-187" width="1920" height="1040" />
     </state>
     <state x="-1661" y="-182" key="Maven.ArtifactSearchDialog/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1920.1040@-1920.-187.1920.1040" timestamp="1586985626224" />
-    <state x="-1696" y="-187" key="SettingsEditor" timestamp="1586604006549">
-      <screen x="-1920" y="-187" width="1920" height="1040" />
+    <state x="224" y="0" key="SettingsEditor" timestamp="1587204722763">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1696" y="-132" key="SettingsEditor/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1586104169446" />
     <state x="-1696" y="-187" key="SettingsEditor/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1280.680@-1920.-187.1920.1040" timestamp="1586604006549" />
+    <state x="224" y="0" key="SettingsEditor/1920.187.1366.728/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587204722763" />
+    <state x="-1568" y="-65" key="Vcs.Push.Dialog.v2" timestamp="1586988013324">
+      <screen x="-1920" y="-187" width="1920" height="1040" />
+    </state>
+    <state x="-1568" y="-65" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1920.-187.1920.1040/-3840.-187.1920.1040@-1920.-187.1920.1040" timestamp="1586988013324" />
     <state x="-1573" y="-33" key="com.intellij.ide.util.TipDialog" timestamp="1586982005099">
       <screen x="-1920" y="-187" width="1920" height="1040" />
     </state>
@@ -345,17 +438,6 @@
       <screen x="-1920" y="-132" width="1920" height="1040" />
     </state>
     <state x="-1867" y="-132" key="new project wizard/0.0.1366.728/-1920.-132.1920.1040/-3280.0.1360.728@-1920.-132.1920.1040" timestamp="1585999613621" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/browserselector/BrowserSelector.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/sample_maven_project$C__PrimeBatch_3_sample_maven_project_src_test_java_com_demo_nopcommerce_resources_runners_sanity_xml.ic" NAME="$PROJECT_DIR$/src/test/java/com/demo/nopcommerce/resources/runners/sanity.xml Coverage Results" MODIFIED="1586704277091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

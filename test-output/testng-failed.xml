@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [testsuite]">
-  <listeners>
-    <listener class-name="com.demo.nopcommerce.TesstNG.TestNGListeners"/>
-  </listeners>
-  <test thread-count="5" name="Login Test(failed)">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test thread-count="5" name="sample-maven-project(failed)">
     <classes>
-      <class name="com.demo.nopcommerce.TesstNG.TestNGListenersDemo">
+      <class name="com.demo.nopcommerce.TesstNG.TestNGRetryFailedDemo">
         <methods>
           <include name="test3"/>
-          <include name="test2"/>
         </methods>
-      </class> <!-- com.demo.nopcommerce.TesstNG.TestNGListenersDemo -->
+      </class> <!-- com.demo.nopcommerce.TesstNG.TestNGRetryFailedDemo -->
     </classes>
-  </test> <!-- Login Test(failed) -->
-</suite> <!-- Failed suite [testsuite] -->
+  </test> <!-- sample-maven-project(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

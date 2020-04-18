@@ -3,7 +3,6 @@ package com.demo.nopcommerce.testbase;
 import com.demo.nopcommerce.basepage.BasePage;
 import com.demo.nopcommerce.browserselector.BrowserSelector;
 import com.demo.nopcommerce.loadproperty.LoadProperty;
-import org.openqa.selenium.Point;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 
@@ -24,7 +23,6 @@ public class TestBase extends BasePage {
     @BeforeMethod(groups = {"sanity", "smoke", "regression"})
     public void openBrowser(){
         browserSelector.selectBrowser(browser);
-        driver.manage().window().setPosition(new Point(-2000, 0));//display into second screen
         driver.manage().window().maximize();
         driver.manage().timeouts().pageLoadTimeout(40, TimeUnit.SECONDS);
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
